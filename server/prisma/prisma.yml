@@ -1,5 +1,7 @@
 # Specifies the HTTP endpoint of your Prisma API.
-endpoint: ''
+#endpoint: ''
+#endpoint: http://localhost:4466
+endpoint: https://eu1.prisma.sh/sarah-flynn-9d7095/hackernews-clone-server/dev
 
 # Defines your models, each model is mapped to the database as a table.
 datamodel: datamodel.prisma
